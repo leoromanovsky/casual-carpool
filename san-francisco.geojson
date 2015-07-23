@@ -1,12 +1,36 @@
-{
+[{
   "type": "Feature",
   "geometry": {
     "type": "Point",
     "coordinates": [-122.276814, 37.773175]
   },
   "properties": {
+    "id": 1,
+    "tags": ["morning_pickup"],
     "title": "Webster St & Santa Clara Ave",
+    "address": "1465 Webster Street",
     "city": "Alameda",
-    "state": "CA"
+    "state": "CA",
+    "marker-symbol": "car",
+    "marker-color": "#ccc"
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-122.282447, 37.874080]
+  },
+  "properties": {
+    "id": 1,
+    "tags": ["morning_pickup"],
+    "title": "North Berkeley BART",
+    "address": "1700 Sacramento Street",
+    "city": "Berkeley",
+    "state": "CA",
+    "marker-symbol": "car",
+    "marker-color": "#ccc"
   }
 }
+
+]
