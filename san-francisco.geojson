@@ -2,9 +2,11 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [-122.5, 37.7]
+    "coordinates": [-122.276814, 37.773175]
   },
   "properties": {
-    "name": "Hello, San Francisco"
+    "title": "Webster St & Santa Clara Ave",
+    "city": "Alameda",
+    "state": "CA"
   }
 }
