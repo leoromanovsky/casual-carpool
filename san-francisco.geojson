@@ -1,37 +1,93 @@
 {
-    "type": "FeatureCollection",
-    "features": [{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [-122.276814, 37.773175]
-  },
-  "properties": {
-    "id": 1,
-    "tags": ["morning_pickup"],
-    "title": "Webster St & Santa Clara Ave",
-    "address": "1465 Webster Street",
-    "city": "Alameda",
-    "state": "CA",
-    "marker-symbol": "car",
-    "marker-color": "#ccc"
-  }
-},
-{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [-122.282447, 37.874080]
-  },
-  "properties": {
-    "id": 1,
-    "tags": ["morning_pickup"],
-    "title": "North Berkeley BART",
-    "address": "1700 Sacramento Street",
-    "city": "Berkeley",
-    "state": "CA",
-    "marker-symbol": "car",
-    "marker-color": "#ccc"
-  }
-}]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.276814,
+          37.773175
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "tags": [
+          "morning_pickup"
+        ],
+        "title": "Webster St & Santa Clara Ave",
+        "address": "1465 Webster Street",
+        "city": "Alameda",
+        "state": "CA",
+        "marker-symbol": "car",
+        "marker-color": "#ccc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.282447,
+          37.87408
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "tags": [
+          "morning_pickup"
+        ],
+        "title": "North Berkeley BART",
+        "address": "1700 Sacramento Street",
+        "city": "Berkeley",
+        "state": "CA",
+        "marker-symbol": "car",
+        "marker-color": "#ccc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.317484,
+          37.922103
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "tags": [
+          "morning_pickup"
+        ],
+        "title": "El Cerrito del Norte BART",
+        "address": "1668 Eastshore Boulevard",
+        "city": "El Cerrito",
+        "state": "CA",
+        "marker-symbol": "car",
+        "marker-color": "#ccc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.395108,
+          37.789215
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "tags": [
+          "morning_dropoff"
+        ],
+        "title": "San Francisco morning dropoff",
+        "address": "200 Fremont St",
+        "city": "San Francisco",
+        "state": "CA",
+        "marker-symbol": "star",
+        "marker-color": "#9e9"
+      }
+    }
+  ]
 }
