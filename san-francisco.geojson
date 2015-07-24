@@ -108,7 +108,7 @@
         "city": "Emeryville",
         "state": "CA",
         "marker-symbol": "car",
-        "marker-color": "#9e9"
+        "marker-color": "#ccc"
       }
     },
     {
@@ -130,7 +130,7 @@
         "city": "Fairfield",
         "state": "CA",
         "marker-symbol": "car",
-        "marker-color": "#9e9"
+        "marker-color": "#ccc"
       }
     },
     {
@@ -152,7 +152,7 @@
         "city": "Hercules",
         "state": "CA",
         "marker-symbol": "car",
-        "marker-color": "#9e9"
+        "marker-color": "#ccc"
       }
     },
     {
@@ -174,7 +174,7 @@
         "city": "Lafayette",
         "state": "CA",
         "marker-symbol": "car",
-        "marker-color": "#9e9"
+        "marker-color": "#ccc"
       }
     },
     {
@@ -196,7 +196,7 @@
         "city": "Moraga",
         "state": "CA",
         "marker-symbol": "car",
-        "marker-color": "#9e9"
+        "marker-color": "#ccc"
       }
     },
     {
@@ -218,7 +218,7 @@
         "city": "Oakland",
         "state": "CA",
         "marker-symbol": "car",
-        "marker-color": "#9e9"
+        "marker-color": "#ccc"
       }
     },
     {
@@ -240,7 +240,7 @@
         "city": "Oakland",
         "state": "CA",
         "marker-symbol": "car",
-        "marker-color": "#9e9"
+        "marker-color": "#ccc"
       }
     },
     {
@@ -262,7 +262,7 @@
         "city": "Oakland",
         "state": "CA",
         "marker-symbol": "car",
-        "marker-color": "#9e9"
+        "marker-color": "#ccc"
       }
     },
     {
@@ -284,7 +284,7 @@
         "city": "Oakland",
         "state": "CA",
         "marker-symbol": "car",
-        "marker-color": "#9e9"
+        "marker-color": "#ccc"
       }
     },
     {
@@ -306,7 +306,7 @@
         "city": "Oakland",
         "state": "CA",
         "marker-symbol": "car",
-        "marker-color": "#9e9"
+        "marker-color": "#ccc"
       }
     },
     {
@@ -328,7 +328,7 @@
         "city": "Oakland",
         "state": "CA",
         "marker-symbol": "car",
-        "marker-color": "#9e9"
+        "marker-color": "#ccc"
       }
     },
     {
@@ -350,7 +350,7 @@
         "city": "Oakland",
         "state": "CA",
         "marker-symbol": "car",
-        "marker-color": "#9e9"
+        "marker-color": "#ccc"
       }
     },
     {
@@ -372,7 +372,7 @@
         "city": "Oakland",
         "state": "CA",
         "marker-symbol": "car",
-        "marker-color": "#9e9"
+        "marker-color": "#ccc"
       }
     },
     {
@@ -394,7 +394,7 @@
         "city": "Alameda",
         "state": "CA",
         "marker-symbol": "car",
-        "marker-color": "#9e9"
+        "marker-color": "#ccc"
       }
     },
     {
@@ -416,7 +416,7 @@
         "city": "Orinda",
         "state": "CA",
         "marker-symbol": "car",
-        "marker-color": "#9e9"
+        "marker-color": "#ccc"
       }
     },
     {
@@ -438,7 +438,7 @@
         "city": "Piedmont",
         "state": "CA",
         "marker-symbol": "car",
-        "marker-color": "#9e9"
+        "marker-color": "#ccc"
       }
     },
     {
@@ -460,7 +460,7 @@
         "city": "San Pablo",
         "state": "CA",
         "marker-symbol": "car",
-        "marker-color": "#9e9"
+        "marker-color": "#ccc"
       }
     },
     {
@@ -482,7 +482,7 @@
         "city": "Richmond",
         "state": "CA",
         "marker-symbol": "car",
-        "marker-color": "#9e9"
+        "marker-color": "#ccc"
       }
     },
     {
@@ -504,7 +504,7 @@
         "city": "Vallejo",
         "state": "CA",
         "marker-symbol": "car",
-        "marker-color": "#9e9"
+        "marker-color": "#ccc"
       }
     }
   ]
