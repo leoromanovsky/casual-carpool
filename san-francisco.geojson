@@ -108,7 +108,403 @@
         "city": "Emeryville",
         "state": "CA",
         "marker-symbol": "car",
-        "marker-color": "#ccc"
+        "marker-color": "#9e9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.06907,
+          38.248518
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "tags": [
+          "morning_pickup"
+        ],
+        "title": "Fairfield Transportation Center",
+        "address": "2186 Cadenasso Drive",
+        "city": "Fairfield",
+        "state": "CA",
+        "marker-symbol": "car",
+        "marker-color": "#9e9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.272587,
+          38.015261
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "tags": [
+          "morning_pickup"
+        ],
+        "title": "Hercules Transit Center",
+        "address": "3950 San Pablo Avenue",
+        "city": "Hercules",
+        "state": "CA",
+        "marker-symbol": "car",
+        "marker-color": "#9e9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.126309,
+          37.893917
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "tags": [
+          "morning_pickup"
+        ],
+        "title": "Lafayette BART",
+        "address": "3601 Deer Hill Rd",
+        "city": "Lafayette",
+        "state": "CA",
+        "marker-symbol": "car",
+        "marker-color": "#9e9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.125856,
+          37.837492
+        ]
+      },
+      "properties": {
+        "id": 9,
+        "tags": [
+          "morning_pickup"
+        ],
+        "title": "Moraga Transit Center",
+        "address": "1285 Moraga Way",
+        "city": "Moraga",
+        "state": "CA",
+        "marker-symbol": "car",
+        "marker-color": "#9e9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.251527,
+          37.850368
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "tags": [
+          "morning_pickup"
+        ],
+        "title": "Claremont Ave & College Ave",
+        "address": "6240 Claremont Avenue",
+        "city": "Oakland",
+        "state": "CA",
+        "marker-symbol": "car",
+        "marker-color": "#9e9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.257382,
+          37.842865
+        ]
+      },
+      "properties": {
+        "id": 11,
+        "tags": [
+          "morning_pickup"
+        ],
+        "title": "Claremont Ave & Hudson St",
+        "address": "492 Hudson Street",
+        "city": "Oakland",
+        "state": "CA",
+        "marker-symbol": "car",
+        "marker-color": "#9e9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.248084,
+          37.821447
+        ]
+      },
+      "properties": {
+        "id": 12,
+        "tags": [
+          "morning_pickup"
+        ],
+        "title": "Oakland Ave & Monte Vista Ave",
+        "address": "779 Oakland Avenue",
+        "city": "Oakland",
+        "state": "CA",
+        "marker-symbol": "car",
+        "marker-color": "#9e9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.255721,
+          37.808995
+        ]
+      },
+      "properties": {
+        "id": 13,
+        "tags": [
+          "morning_pickup"
+        ],
+        "title": "Grand Ave & Perkins St",
+        "address": "350 Grand Avenue",
+        "city": "Oakland",
+        "state": "CA",
+        "marker-symbol": "car",
+        "marker-color": "#9e9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.225248,
+          37.805971
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "tags": [
+          "morning_pickup"
+        ],
+        "title": "Park Boulevard at Hampel St",
+        "address": "4050 Park Boulevard",
+        "city": "Oakland",
+        "state": "CA",
+        "marker-symbol": "car",
+        "marker-color": "#9e9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.21534,
+          37.811648
+        ]
+      },
+      "properties": {
+        "id": 15,
+        "tags": [
+          "morning_pickup"
+        ],
+        "title": "Park Blvd & Hollywood Ave",
+        "address": "4800 Park Boulevard",
+        "city": "Oakland",
+        "state": "CA",
+        "marker-symbol": "car",
+        "marker-color": "#9e9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.216618,
+          37.799133
+        ]
+      },
+      "properties": {
+        "id": 16,
+        "tags": [
+          "morning_pickup"
+        ],
+        "title": "Fruitvale Ave & Montana St",
+        "address": "3292 Fruitvale Avenue",
+        "city": "Oakland",
+        "state": "CA",
+        "marker-symbol": "car",
+        "marker-color": "#9e9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.194951,
+          37.787335
+        ]
+      },
+      "properties": {
+        "id": 17,
+        "tags": [
+          "morning_pickup"
+        ],
+        "title": "MacArthur Blvd & High St",
+        "address": "3573 High Street",
+        "city": "Oakland",
+        "state": "CA",
+        "marker-symbol": "car",
+        "marker-color": "#9e9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.243164,
+          37.761917
+        ]
+      },
+      "properties": {
+        "id": 18,
+        "tags": [
+          "morning_pickup"
+        ],
+        "title": "Encinal Ave & Park Ave",
+        "address": "1301 Park Avenue",
+        "city": "Alameda",
+        "state": "CA",
+        "marker-symbol": "car",
+        "marker-color": "#9e9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.182513,
+          37.879089
+        ]
+      },
+      "properties": {
+        "id": 19,
+        "tags": [
+          "morning_pickup"
+        ],
+        "title": "Orinda BART",
+        "address": "24 Bryant Way",
+        "city": "Orinda",
+        "state": "CA",
+        "marker-symbol": "car",
+        "marker-color": "#9e9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.235336,
+          37.825398
+        ]
+      },
+      "properties": {
+        "id": 20,
+        "tags": [
+          "morning_pickup"
+        ],
+        "title": "Oakland Ave & Hillside Ave",
+        "address": "1708 Oakland Avenue",
+        "city": "Piedmont",
+        "state": "CA",
+        "marker-symbol": "car",
+        "marker-color": "#9e9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.317607,
+          37.985884
+        ]
+      },
+      "properties": {
+        "id": 21,
+        "tags": [
+          "morning_pickup"
+        ],
+        "title": "San Pablo Park and Ride",
+        "address": "3360 Blume Drive",
+        "city": "San Pablo",
+        "state": "CA",
+        "marker-symbol": "car",
+        "marker-color": "#9e9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.309146,
+          37.898567
+        ]
+      },
+      "properties": {
+        "id": 22,
+        "tags": [
+          "morning_pickup"
+        ],
+        "title": "Richmond",
+        "address": "3170 Pierce Street",
+        "city": "Richmond",
+        "state": "CA",
+        "marker-symbol": "car",
+        "marker-color": "#9e9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.235996,
+          38.092278
+        ]
+      },
+      "properties": {
+        "id": 23,
+        "tags": [
+          "morning_pickup"
+        ],
+        "title": "Vallejo",
+        "address": "392 Carlson Streett",
+        "city": "Vallejo",
+        "state": "CA",
+        "marker-symbol": "car",
+        "marker-color": "#9e9"
       }
     }
   ]
