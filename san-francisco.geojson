@@ -88,6 +88,28 @@
         "marker-symbol": "star",
         "marker-color": "#9e9"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.295262,
+          37.842133
+        ]
+      },
+      "properties": {
+        "id": 5,
+        "tags": [
+          "morning_pickup"
+        ],
+        "title": "Christie Ave & 64th St",
+        "address": "6363 Christie",
+        "city": "Emeryville",
+        "state": "CA",
+        "marker-symbol": "car",
+        "marker-color": "#ccc"
+      }
     }
   ]
 }
